@@ -1,6 +1,15 @@
 # 戦国クラフトのホームページの中身
 
-SengokuCraft's Home Page on GitHub Pages
+これは戦国クラフトのホームページの中身です。  
+
+[https://sengokucraft.github.io/](https://sengokucraft.github.io/)  
+にて公開しています。  
+ぜひご覧ください。  
+
+また、開発中([developブランチ](https://github.com/SengokuCraft/sengokucraft.github.io/tree/develop))の物は  
+[https://sengokucraft.github.io/develop/](https://sengokucraft.github.io/develop/)  
+にて公開しています。  
+レビューしていただけると幸いです。  
 
 ## License
 
